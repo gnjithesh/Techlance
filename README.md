@@ -5,7 +5,8 @@ This is the weekly deliverable 5. Each member has to join this repository and cr
 Create branch
 Commit
 Push
-Pull
 
 This is the pull request from Prajnana Kumar Taraphdar
 This is the pull request by Ruby.
+This is the pull request by Ruby.
+This is the pull request by Jasmeen.
