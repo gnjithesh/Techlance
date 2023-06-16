@@ -7,7 +7,7 @@ Commit
 Push
 Pull
 
+This is the pull request from Prajnana Kumar Taraphdar
+This is the pull request by Jasmeen.
 This is a pull request by Jithesh.
 This is the pull request by Ruby.
-This is the pull request by Jasmeen.
-
