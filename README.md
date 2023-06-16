@@ -8,3 +8,6 @@ Push
 Pull
 
 This is a pull request by Jithesh.
+This is the pull request by Ruby.
+This is the pull request by Jasmeen.
+
