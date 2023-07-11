@@ -1,4 +1,4 @@
-# Gamer Management Platoform(...still in dev mode...)
+# Gamer Management Platoform(project under development)
 
 This is a Role Based Access Control application using Nodejs, Express, Passport Js, etc.
 You can use this application as the starting point for whatever project you are going to build which needs authentication and authorization.
