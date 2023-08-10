@@ -94,7 +94,7 @@ if (!isset($_SESSION['USER_ID'])) {
       </div>
     </nav>
 
-    <h1 class="text-3xl font-semibold text-gray-800 ml-10 mt-4">Add User</h1>
+    <h1 class="text-3xl font-semibold text-gray-800 ml-10 mt-4">Edit User</h1>
 
     <form class="max-w-md mx-auto" method="post">
 

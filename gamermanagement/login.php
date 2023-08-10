@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             header("location:admin_dashboard.php"); 
         } elseif ($_SESSION['USER_ACCESSTYPE'] == 'elevated') {
             header("location:elevated_user_dashboard.php");
-        } elseif ($_SESSION['USER_ACCESSTYPE'] == 'User') {
+        } else {
             header("location:user_dashboard.php");
         } 
     } else {
